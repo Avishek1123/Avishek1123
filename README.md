@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/avishek-mishra-6b3910272/"><img src="https://img.shields.io/badge/-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=8B93FF" height="32"/></a>
 <a href="mailto:avishekmishra56@gmail.com"><img src="https://img.shields.io/badge/-0B0B0F?style=for-the-badge&logo=gmail&logoColor=8B93FF" height="32"/></a>
 <a href="https://avishek.site"><img src="https://img.shields.io/badge/-0B0B0F?style=for-the-badge&logo=vercel&logoColor=8B93FF" height="32"/></a>
-<a href="https://github.com/avishek3223"><img src="https://img.shields.io/badge/-0B0B0F?style=for-the-badge&logo=github&logoColor=8B93FF" height="32"/></a>
+<a href="https://github.com/Avishek1123"><img src="https://img.shields.io/badge/-0B0B0F?style=for-the-badge&logo=github&logoColor=8B93FF" height="32"/></a>
 
 </div>
 
@@ -88,23 +88,21 @@ Currently sharpening Redis, Prisma, and agentic AI — with system design and a 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avishek3223&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=8B93FF&line=6C63FF&point=ffffff" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Avishek1123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b93ff&icon_color=8b93ff&text_color=9ca3af&hide_rank=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek1123&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b93ff&text_color=9ca3af" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=avishek3223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b93ff&icon_color=8b93ff&text_color=9ca3af&hide_rank=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek3223&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b93ff&text_color=9ca3af" height="165"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=avishek3223&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Avishek1123&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 
 </div>
 
 <!-- Contribution snake — appears once the workflow below has run once via GitHub Actions -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/avishek3223/avishek3223/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Avishek1123/Avishek1123/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,100:141821&height=120&section=footer&animation=fadeIn" width="100%"/>
-<sub>avishekmishra56@gmail.com · <img src="https://komarev.com/ghpvc/?username=avishek3223&label=profile+views&style=flat-square&color=6C63FF" height="18"/></sub>
+<sub>avishekmishra56@gmail.com · <img src="https://komarev.com/ghpvc/?username=Avishek1123&label=profile+views&style=flat-square&color=6C63FF" height="18"/></sub>
 </div>
