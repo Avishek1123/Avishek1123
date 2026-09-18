@@ -1,108 +1,425 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:141821,100:6C63FF&height=230&section=header&text=Avishek%20Mishra&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Odisha,%20India&descAlignY=58&descSize=18&descColor=c9ccff" width="100%"/>
+<!-- =========================================================
+     AVISHEK MISHRA — GITHUB PROFILE README
+     GitHub: Avishek1123
+     Portfolio: https://avishek.site
+========================================================= -->
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=8B93FF&center=true&vCenter=true&width=560&lines=Owns+products+end+to+end;Ships+in+days%2C+not+sprints;Cloud-native+%2B+AI-integrated+by+default;Currently+at+Tekkzy+Intelligent+Cloud" alt="typing-svg" />
+<!-- ===================== HERO BANNER ====================== -->
 
-<br/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:08090c,50:101827,100:0ea5e9&height=230&section=header&text=Avishek%20Mishra&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=17&animation=fadeIn"
+    width="100%"
+  />
+</p>
 
-<a href="https://www.linkedin.com/in/avishek-mishra-6b3910272/"><img src="https://img.shields.io/badge/-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=8B93FF" height="32"/></a>
-<a href="mailto:avishekmishra56@gmail.com"><img src="https://img.shields.io/badge/-0B0B0F?style=for-the-badge&logo=gmail&logoColor=8B93FF" height="32"/></a>
-<a href="https://avishek.site"><img src="https://img.shields.io/badge/-0B0B0F?style=for-the-badge&logo=vercel&logoColor=8B93FF" height="32"/></a>
-<a href="https://github.com/Avishek1123"><img src="https://img.shields.io/badge/-0B0B0F?style=for-the-badge&logo=github&logoColor=8B93FF" height="32"/></a>
+<p align="center">
+  <a href="https://avishek.site">
+    <img src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=0b1220" />
+  </a>
+  <a href="https://github.com/Avishek1123">
+    <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0b1220" />
+  </a>
+  <a href="mailto:avishekmishra56@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0b1220" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <b>Build.</b>&nbsp;&nbsp;
+  <b>Learn.</b>&nbsp;&nbsp;
+  <b>Improve.</b>&nbsp;&nbsp;
+  <b>Repeat.</b>
+</p>
 
-<br/>
+<br />
 
-I own products end to end — from the first architecture call to the client conversation where the requirements change for the third time. The goal isn't a working deliverable, it's something people are genuinely glad to use.
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:141821&height=3&width=100%25" width="100%"/>
-</div>
-
-## Shipped, not just shown
-
-<details>
-<summary><b>Five days, start to finish</b></summary>
-<br/>
-A production-ops platform for tracking material output, expenses, sales, and machinery — tuned to hold up on a connection as slow as 0.1 Mbps. It won the client over well enough that they referred the next one.
-</details>
-
-<details>
-<summary><b>The one that kept changing</b></summary>
-<br/>
-My most complex build to date — 20 to 30 people using it daily, a database rebuilt more than once as requirements shifted mid-project, and an API schema redesigned so every response carries only what the frontend actually needs.
-</details>
-
-<details>
-<summary><b>Still running, quietly</b></summary>
-<br/>
-A billing system that's been in daily production long enough to process roughly 600 invoices a month without anyone thinking about it.
-</details>
-
-<details>
-<summary><b>Built from scratch, end to end</b></summary>
-<br/>
-An internal HR platform I designed, built, and named myself — now part of how the team runs day to day.
-</details>
-
-<br/>
-
-## Stack
+<!-- ===================== INTRODUCTION ==================== -->
 
 <table>
 <tr>
-<td width="140" valign="middle"><b>Frontend</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,svelte&theme=dark" /></td>
-</tr>
-<tr>
-<td width="140" valign="middle"><b>Backend</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,graphql&theme=dark" /></td>
-</tr>
-<tr>
-<td width="140" valign="middle"><b>Data</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,dynamodb,redis,prisma&theme=dark" /></td>
-</tr>
-<tr>
-<td width="140" valign="middle"><b>Cloud & infra</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions&theme=dark" /></td>
-</tr>
-<tr>
-<td width="140" valign="middle"><b>AI / ML</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=py&theme=dark" /> <img src="https://img.shields.io/badge/-0B0B0F?style=for-the-badge&logo=googlegemini&logoColor=8B93FF" height="48"/></td>
+<td width="58%" valign="top">
+
+## Hi, I'm Avishek.
+
+Software Developer focused on building scalable web applications, cloud-native backends, and practical digital products.
+
+I work across the stack — from designing modern interfaces to building serverless AWS architectures.
+
+```typescript
+const developer = {
+  name: "Avishek Mishra",
+  role: "Software Developer",
+  location: "Odisha, India",
+  focus: [
+    "Full-Stack Development",
+    "AWS Serverless",
+    "AI Applications",
+    "SaaS Products"
+  ],
+  mindset: "Build. Learn. Improve. Repeat."
+};
+```
+
+</td>
+<td width="42%" valign="top">
+
+## Currently
+
+```diff
++ Building real-world products
++ Exploring AI & cloud systems
++ Improving system design
++ Practicing DSA
+```
+
+<br />
+
+<a href="https://avishek.site">
+  <img src="https://img.shields.io/badge/Explore%20My%20Work-0ea5e9?style=for-the-badge&logo=arrowright&logoColor=white" />
+</a>
+
+</td>
 </tr>
 </table>
 
-Currently sharpening Redis, Prisma, and agentic AI — with system design and a scalability-focused certification next.
+---
 
-<br/>
+<!-- ===================== QUICK STATS ===================== -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:141821&height=3&width=100%25" width="100%"/>
-</div>
+## Developer Snapshot
 
-## Activity
+<table>
+<tr>
+<td align="center" width="25%">
 
-<div align="center">
+### 1+
 
-<img src="https://github-readme-stats.vercel.app/api?username=Avishek1123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b93ff&icon_color=8b93ff&text_color=9ca3af&hide_rank=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek1123&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b93ff&text_color=9ca3af" height="165"/>
+Years
 
-<img src="https://github-profile-trophy.vercel.app/?username=Avishek1123&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+**Experience**
 
-</div>
+</td>
+<td align="center" width="25%">
 
-<!-- Contribution snake — appears once the workflow below has run once via GitHub Actions -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Avishek1123/Avishek1123/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
+### 4+
 
-<br/>
+Featured
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,100:141821&height=120&section=footer&animation=fadeIn" width="100%"/>
-<sub>avishekmishra56@gmail.com · <img src="https://komarev.com/ghpvc/?username=Avishek1123&label=profile+views&style=flat-square&color=6C63FF" height="18"/></sub>
-</div>
+**Projects**
+
+</td>
+<td align="center" width="25%">
+
+### AWS
+
+Cloud
+
+**Engineering**
+
+</td>
+<td align="center" width="25%">
+
+### AI
+
+Product
+
+**Builder**
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <sub>Focused on continuous improvement, scalable systems, and meaningful products.</sub>
+</p>
+
+---
+
+<!-- ===================== TECH STACK ======================= -->
+
+## Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,svelte,html,css,tailwind" />
+</p>
+
+### Backend, Cloud & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,aws,serverless,mongodb,dynamodb,docker" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,python,vscode" />
+</p>
+
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Frontend**
+
+- React.js
+- Next.js
+- SvelteKit
+- JavaScript
+- TypeScript
+- Tailwind CSS
+
+</td>
+<td width="50%" valign="top">
+
+**Backend & Cloud**
+
+- Node.js
+- Express.js
+- GraphQL
+- AWS Lambda
+- API Gateway
+- DynamoDB
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Databases**
+
+- MongoDB
+- DynamoDB
+- Data modeling
+- Serverless data access
+
+</td>
+<td width="50%" valign="top">
+
+**Other**
+
+- Docker
+- Git & GitHub
+- Figma
+- JWT
+- WebSockets
+- CI/CD
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== FEATURED PROJECTS ================= -->
+
+## Featured Projects
+
+### 01 / AWS AI App
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-0ea5e9?style=flat-square" />
+</p>
+
+A platform focused on cloud-native applications, AI integrations, and reusable application templates.
+
+**Highlights**
+
+- AWS Lambda-based backend architecture.
+- API Gateway, S3, CloudFront, and DynamoDB.
+- AI-powered application features.
+- Reusable templates for business verticals.
+- Serverless deployment workflows.
+
+**Stack:** AWS · Node.js · Serverless · DynamoDB · React
+
+---
+
+### 02 / HappyPrancer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+A dance studio management platform for managing classes, instructors, members, attendance, and payments.
+
+**Highlights**
+
+- Class and instructor management.
+- Member management.
+- Attendance workflows.
+- Payment-related features.
+- Admin dashboard and management tools.
+
+**Stack:** Next.js · React · Node.js · MongoDB · Tailwind CSS
+
+---
+
+### 03 / TekkzyWork
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+An HR management platform focused on employee management, payroll workflows, payslips, and payouts.
+
+**Highlights**
+
+- Employee information management.
+- Payroll and payslip workflows.
+- RazorpayX payout integration.
+- HR administration features.
+- Employee-related data workflows.
+
+**Stack:** React · Node.js · AWS · RazorpayX
+
+---
+
+### 04 / Resume Genius
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Textract-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+An AI-assisted resume improvement and resume-building platform.
+
+**Highlights**
+
+- Resume section review.
+- AI-powered suggestions.
+- Resume template selection.
+- Resume generation and download.
+- AWS Textract integration.
+
+**Stack:** Next.js · OpenAI · AWS Textract · Serverless
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ================== -->
+
+## GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Avishek1123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    height="175"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek1123&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    height="175"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Avishek1123&theme=github-dark-blue&hide_border=true"
+    width="70%"
+  />
+</p>
+
+---
+
+<!-- ===================== CONTRIBUTIONS ==================== -->
+
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Avishek1123&bg_color=0d1117&color=58a6ff&line=238636&point=ffffff&area=true&hide_border=true"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>Every contribution is a step toward becoming a better engineer.</i>
+</p>
+
+---
+
+<!-- ===================== GITHUB TROPHIES ================== -->
+
+## Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Avishek1123&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+    width="100%"
+  />
+</p>
+
+---
+
+<!-- ===================== CURRENT FOCUS ==================== -->
+
+## What I'm Working On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Engineering
+
+- Data Structures & Algorithms.
+- System Design.
+- Scalable backend architecture.
+- AWS cloud-native development.
+
+</td>
+<td width="50%" valign="top">
+
+### Product Building
+
+- AI-powered tools.
+- SaaS applications.
+- Better developer workflows.
+- Real-world business solutions.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== CONTACT ========================== -->
+
+## Let's Connect
+
+<p>
+  <a href="https://avishek.site">
+    <img src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
+  </a>
+  <a href="https://github.com/Avishek1123">
+    <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=ffffff" />
+  </a>
+  <a href="mailto:avishekmishra56@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=ea4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/avishek-mishra">
+    <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:101827,100:08090c&height=120&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <b>Consistent progress beats occasional perfection.</b>
+  <br />
+  <sub>Keep Building.</sub>
+</p>
