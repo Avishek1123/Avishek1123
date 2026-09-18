@@ -53,20 +53,28 @@ An internal HR platform I designed, built, and named myself — now part of how 
 
 ## Stack
 
-**Frontend**
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,svelte&theme=dark" />
-
-**Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,graphql&theme=dark" />
-
-**Data**
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,dynamodb,redis,prisma&theme=dark" />
-
-**Cloud & infra**
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions&theme=dark" />
-
-**AI / ML**
-<img src="https://skillicons.dev/icons?i=py&theme=dark" /> <img src="https://img.shields.io/badge/-0B0B0F?style=for-the-badge&logo=googlegemini&logoColor=8B93FF" height="48"/>
+<table>
+<tr>
+<td width="140" valign="middle"><b>Frontend</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,svelte&theme=dark" /></td>
+</tr>
+<tr>
+<td width="140" valign="middle"><b>Backend</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,graphql&theme=dark" /></td>
+</tr>
+<tr>
+<td width="140" valign="middle"><b>Data</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,dynamodb,redis,prisma&theme=dark" /></td>
+</tr>
+<tr>
+<td width="140" valign="middle"><b>Cloud & infra</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions&theme=dark" /></td>
+</tr>
+<tr>
+<td width="140" valign="middle"><b>AI / ML</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=py&theme=dark" /> <img src="https://img.shields.io/badge/-0B0B0F?style=for-the-badge&logo=googlegemini&logoColor=8B93FF" height="48"/></td>
+</tr>
+</table>
 
 Currently sharpening Redis, Prisma, and agentic AI — with system design and a scalability-focused certification next.
 
