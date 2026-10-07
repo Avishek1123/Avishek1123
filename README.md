@@ -16,7 +16,7 @@
 
 ## Shipped
 
-<img src="assets/shipped.svg" width="100%" alt="5 days to build the crusher system, 0.1 Mbps bandwidth, about 600 bills a month, 20 to 30 people on the largest build"/>
+<img src="assets/shipped.svg" width="100%" alt="15 projects shipped: 8 web, 3 mobile, 2 Shopify, 1 IoT, 1 AI and ML"/>
 
 ## What I build with
 
