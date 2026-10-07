@@ -1,18 +1,11 @@
-<div align="center">
-
 <img src="assets/banner.svg" alt="Make it work. Make it scale." width="100%"/>
+<img src="assets/intro.svg" alt="Hi, I'm Avishek. I take a product from design to deployment, then keep it fast when real people use it." width="100%"/>
 
-<br/>
-
-**Full stack engineer. I take a product from design to deployment, then keep it fast when real people use it.**
-
-<a href="https://avishek.site"><img src="https://img.shields.io/badge/avishek.site-000000?style=for-the-badge&logo=googlechrome&logoColor=E10600" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E10600" alt="LinkedIn"/></a>
-<a href="https://github.com/Avishek1123?tab=repositories"><img src="https://img.shields.io/badge/Repositories-000000?style=for-the-badge&logo=github&logoColor=E10600" alt="Repositories"/></a>
+<a href="https://avishek.site"><img src="assets/btn-site.svg" alt="avishek.site" height="48"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="48"/></a>
+<a href="https://github.com/Avishek1123?tab=repositories"><img src="assets/btn-repos.svg" alt="Repositories" height="48"/></a>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
-
-</div>
 
 ## Shipped
 
