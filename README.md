@@ -4,4 +4,4 @@
   <a href="https://github.com/Avishek1123?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=FF1F1A" alt="Repositories"/></a>
 </p>
 
-<img src="assets/profile-v2.svg" alt="Avishek Mishra. Make it work. Make it scale. Full stack, cloud and product. 15 projects shipped, my stack, and selected work." width="100%"/>
+<img src="assets/profile.svg" alt="Avishek Mishra. Make it work. Make it scale. Full stack, cloud and product. 15 projects shipped, my stack, and selected work." width="100%"/>
