@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 160" width="1000" height="160"><rect x="0" y="10" width="1000" height="130" rx="10" fill="#080808" stroke="#2a2a2a"/><text x="500" y="82" text-anchor="middle" fill="#bdbdbd" font-family="Consolas,monospace" font-size="16">Stats generate on first workflow run</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 160" width="1000" height="160">
+<style>
+.card{fill:#080808;stroke:#2a2a2a;stroke-width:1}
+.num{font:800 46px 'Segoe UI',Arial,sans-serif;fill:#FF1F1A}
+.lbl{font:13px Consolas,Menlo,monospace;fill:#bdbdbd;letter-spacing:2px}
+.sub{font:12px Consolas,Menlo,monospace;fill:#6b6b6b}
+.name{font:600 15px Consolas,Menlo,monospace;fill:#F5F5F5}
+.pct{font:13px Consolas,Menlo,monospace;fill:#bdbdbd}
+g.a{opacity:0;animation:in .8s ease forwards}
+@keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+</style>
+<g class="a" style="animation-delay:0.0s"><rect class="card" x="0" y="10" width="320" height="130" rx="10"/><text class="num" x="26" y="68">3,247</text><text class="lbl" x="26" y="98">TOTAL CONTRIBUTIONS</text><text class="sub" x="26" y="120">since joining GitHub</text></g>
+<g class="a" style="animation-delay:0.2s"><rect class="card" x="340" y="10" width="320" height="130" rx="10"/><text class="num" x="366" y="68">8</text><text class="lbl" x="366" y="98">CURRENT STREAK</text><text class="sub" x="366" y="120">days in a row</text></g>
+<g class="a" style="animation-delay:0.4s"><rect class="card" x="680" y="10" width="320" height="130" rx="10"/><text class="num" x="706" y="68">13</text><text class="lbl" x="706" y="98">LONGEST STREAK</text><text class="sub" x="706" y="120">days in a row</text></g>
+</svg>

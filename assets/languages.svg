@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 160" width="1000" height="160"><rect x="0" y="10" width="1000" height="130" rx="10" fill="#080808" stroke="#2a2a2a"/><text x="500" y="82" text-anchor="middle" fill="#bdbdbd" font-family="Consolas,monospace" font-size="16">Stats generate on first workflow run</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 298" width="1000" height="298">
+<style>
+.card{fill:#080808;stroke:#2a2a2a;stroke-width:1}
+.num{font:800 46px 'Segoe UI',Arial,sans-serif;fill:#FF1F1A}
+.lbl{font:13px Consolas,Menlo,monospace;fill:#bdbdbd;letter-spacing:2px}
+.sub{font:12px Consolas,Menlo,monospace;fill:#6b6b6b}
+.name{font:600 15px Consolas,Menlo,monospace;fill:#F5F5F5}
+.pct{font:13px Consolas,Menlo,monospace;fill:#bdbdbd}
+g.a{opacity:0;animation:in .8s ease forwards}
+@keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+</style>
+<rect class="card" x="0" y="0" width="1000" height="298" rx="10"/>
+<text class="lbl" x="26" y="38">MOST USED LANGUAGES</text>
+<text class="name" x="26" y="84">JavaScript</text><rect x="200" y="70" width="640" height="14" rx="7" fill="#161616"/><rect x="200" y="70" height="14" rx="7" fill="#E10600"><animate attributeName="width" from="0" to="296" dur="1.2s" begin="0.0s" fill="freeze"/></rect><text class="pct" x="860" y="83">46.3%</text>
+<text class="name" x="26" y="122">TypeScript</text><rect x="200" y="108" width="640" height="14" rx="7" fill="#161616"/><rect x="200" y="108" height="14" rx="7" fill="#E10600"><animate attributeName="width" from="0" to="134" dur="1.2s" begin="0.15s" fill="freeze"/></rect><text class="pct" x="860" y="121">21.0%</text>
+<text class="name" x="26" y="160">HTML</text><rect x="200" y="146" width="640" height="14" rx="7" fill="#161616"/><rect x="200" y="146" height="14" rx="7" fill="#E10600"><animate attributeName="width" from="0" to="92" dur="1.2s" begin="0.3s" fill="freeze"/></rect><text class="pct" x="860" y="159">14.4%</text>
+<text class="name" x="26" y="198">Ruby</text><rect x="200" y="184" width="640" height="14" rx="7" fill="#161616"/><rect x="200" y="184" height="14" rx="7" fill="#E10600"><animate attributeName="width" from="0" to="38" dur="1.2s" begin="0.44999999999999996s" fill="freeze"/></rect><text class="pct" x="860" y="197">5.9%</text>
+<text class="name" x="26" y="236">CSS</text><rect x="200" y="222" width="640" height="14" rx="7" fill="#161616"/><rect x="200" y="222" height="14" rx="7" fill="#E10600"><animate attributeName="width" from="0" to="36" dur="1.2s" begin="0.6s" fill="freeze"/></rect><text class="pct" x="860" y="235">5.6%</text>
+<text class="name" x="26" y="274">Python</text><rect x="200" y="260" width="640" height="14" rx="7" fill="#161616"/><rect x="200" y="260" height="14" rx="7" fill="#E10600"><animate attributeName="width" from="0" to="34" dur="1.2s" begin="0.75s" fill="freeze"/></rect><text class="pct" x="860" y="273">5.4%</text>
+</svg>
