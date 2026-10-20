@@ -10,5 +10,4 @@
   <g><rect class="card" x="0" y="10" width="235" height="120" rx="10"/><text class="num" x="24" y="68">15+</text><text class="lbl" x="24" y="102">PRODUCTS SHIPPED</text></g>
   <g><rect class="card" x="255" y="10" width="235" height="120" rx="10"/><text class="num" x="279" y="68">5 DAYS</text><text class="lbl" x="279" y="102">IDEA TO PRODUCTION</text></g>
   <g><rect class="card" x="510" y="10" width="235" height="120" rx="10"/><text class="num" x="534" y="68">0.1 Mbps</text><text class="lbl" x="534" y="102">WORKS ON LOW BANDWIDTH</text></g>
-  <g><rect class="card" x="765" y="10" width="235" height="120" rx="10"/><text class="num" x="789" y="68">$6/mo</text><text class="lbl" x="789" y="102">PRODUCTION CLOUD COST</text></g>
 </svg>
