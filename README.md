@@ -10,7 +10,7 @@
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF1F1A" alt="Email"/></a>
 </p>
 
-<img src="assets/stats.svg" width="100%" alt="15+ products shipped, 5 days idea to production, works at 0.1 Mbps"/>
+<img src="assets/stats.svg" width="100%" alt="15+ products shipped, 5 days idea to production, works at 0.1 Mbps"/> 
 
 ## What I build
 
