@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://avishek.site"><img src="https://img.shields.io/badge/PORTFOLIO-E10600?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/<your-id>"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF1F1A" alt="LinkedIn"/></a>
-  <a href="mailto:<your-email>"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF1F1A" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF1F1A" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF1F1A" alt="Email"/></a>
 </p>
 
 <img src="assets/stats.svg" width="100%" alt="15+ products shipped, 5 days idea to production, works at 0.1 Mbps, $6 per month production cost"/>
@@ -28,7 +28,11 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,fastapi,graphql,aws,docker,postgres,mysql,mongodb,supabase,githubactions,git&theme=dark" alt="Tech stack"/>
 </p>
 
-## Contributions
+## GitHub activity
+
+<img src="assets/streak.svg" width="100%" alt="Total contributions, current streak and longest streak"/>
+
+<img src="assets/languages.svg" width="100%" alt="Most used languages"/>
 
 <img src="https://raw.githubusercontent.com/Avishek1123/Avishek1123/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
