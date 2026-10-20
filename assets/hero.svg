@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1c1c1c" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="80%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#E10600" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#FF1F1A"/>
+      <stop offset="1" stop-color="#E10600" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="320" fill="#000"/>
+  <rect width="1000" height="320" fill="url(#grid)"/>
+  <rect width="1000" height="320" fill="url(#glow)"/>
+
+  <!-- scanning line -->
+  <rect width="1000" height="2" fill="#FF1F1A" opacity="0.35">
+    <animate attributeName="y" from="0" to="320" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- status pill -->
+  <g transform="translate(60,52)">
+    <rect width="250" height="30" rx="15" fill="#0b0b0b" stroke="#3a3a3a"/>
+    <circle cx="18" cy="15" r="5" fill="#FF1F1A">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="34" y="20" fill="#F5F5F5" font-family="Consolas,Menlo,monospace" font-size="13" letter-spacing="2">OPEN TO OPPORTUNITIES</text>
+  </g>
+
+  <!-- name -->
+  <text x="60" y="165" fill="#F5F5F5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="2">
+    AVISHEK <tspan fill="#FF1F1A">MISHRA</tspan>
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
+  </text>
+
+  <!-- underline draws in -->
+  <rect x="60" y="182" height="4" fill="url(#line)">
+    <animate attributeName="width" from="0" to="560" dur="1.4s" fill="freeze"/>
+  </rect>
+
+  <!-- tagline -->
+  <text x="60" y="226" fill="#bdbdbd" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="24" letter-spacing="1">
+    Full Stack &#183; Cloud &#183; Product
+  </text>
+  <text x="60" y="262" fill="#FF1F1A" font-family="Consolas,Menlo,monospace" font-size="18">
+    &gt; make it work. make it scale.<tspan>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</tspan>
+  </text>
+
+  <!-- decorative code block -->
+  <g font-family="Consolas,Menlo,monospace" font-size="14" fill="#6b6b6b" transform="translate(690,96)">
+    <text y="0"><tspan fill="#FF1F1A">const</tspan> dev = {</text>
+    <text y="26" x="18">role: <tspan fill="#F5F5F5">"Full Stack"</tspan>,</text>
+    <text y="52" x="18">cloud: <tspan fill="#F5F5F5">"AWS"</tspan>,</text>
+    <text y="78" x="18">ships: <tspan fill="#F5F5F5">"end-to-end"</tspan>,</text>
+    <text y="104" x="18">mindset: <tspan fill="#F5F5F5">"scale"</tspan></text>
+    <text y="130">};</text>
+  </g>
+</svg>
