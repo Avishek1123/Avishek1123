@@ -9,7 +9,7 @@
 g.a{opacity:0;animation:in .8s ease forwards}
 @keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
 </style>
-<g class="a" style="animation-delay:0.0s"><rect class="card" x="0" y="10" width="320" height="130" rx="10"/><text class="num" x="26" y="68">3,301</text><text class="lbl" x="26" y="98">TOTAL CONTRIBUTIONS</text><text class="sub" x="26" y="120">since joining GitHub</text></g>
+<g class="a" style="animation-delay:0.0s"><rect class="card" x="0" y="10" width="320" height="130" rx="10"/><text class="num" x="26" y="68">3,302</text><text class="lbl" x="26" y="98">TOTAL CONTRIBUTIONS</text><text class="sub" x="26" y="120">since joining GitHub</text></g>
 <g class="a" style="animation-delay:0.2s"><rect class="card" x="340" y="10" width="320" height="130" rx="10"/><text class="num" x="366" y="68">1</text><text class="lbl" x="366" y="98">CURRENT STREAK</text><text class="sub" x="366" y="120">days in a row</text></g>
 <g class="a" style="animation-delay:0.4s"><rect class="card" x="680" y="10" width="320" height="130" rx="10"/><text class="num" x="706" y="68">13</text><text class="lbl" x="706" y="98">LONGEST STREAK</text><text class="sub" x="706" y="120">days in a row</text></g>
 </svg>
